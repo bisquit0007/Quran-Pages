@@ -1,7 +1,8 @@
 # Quran-Pages
 Quran pages in different formats
 
-These are quran pages in different formats
+These are quran pages in different formats for those that
+wish to make reader apps, or simply want a high quality mushaf
 
 "Crops" is just a folder of cropped screenshots from an app
 
