@@ -11,4 +11,6 @@ These are quran pages in different formats
 
 "PDFs" is the SVG pages converted to PDF
 
-I can't upload the full book, so you'll need to combine the pages using a python script
+I can't upload the full book as the file is too large,
+so you'll need to combine the pages using the python script
+named "PDF merge.py"
